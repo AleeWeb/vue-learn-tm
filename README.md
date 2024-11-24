@@ -1,2 +1,31 @@
-# vue-learn-tm
 This project is part of my self-training to stay current with modern front-end frameworks, specifically Vue.js. It is based on the 'Vue.js Crash Course 2024' by Traversy Media on YouTube.
+
+# vue-learn-tm
+
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vite.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
